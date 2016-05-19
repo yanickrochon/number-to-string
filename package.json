@@ -1,0 +1,30 @@
+{
+  "name": "number-to-words",
+  "description": "Convert numbers to a human readable format in any given locale",
+  "version": "0.0.1",
+  "author": "Yanick Rochon <yanick.rochon@gmail.com>",
+  "license": "ISC",
+  "keywords": [
+    "numbers",
+    "words",
+    "spelling",
+    "human-readable"
+  ],
+  "homepage": "https://github.com/yanickrochon/number-to-string#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanickrochon/number-to-string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yanickrochon/number-to-string/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.3",
+    "mocha": "^2.4.5",
+    "should": "^8.3.2"
+  }
+}
